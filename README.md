@@ -35,10 +35,8 @@ The dashboard allows users to:
   - Contract Type  
   - Gender  
   - Senior Citizen  
-  - Tenure  
-
----
-
+  - Tenure
+    
 ## Key Insights
 
 - Churn Rate: **26.6%** (1 in 4 customers)  
@@ -49,8 +47,6 @@ The dashboard allows users to:
 - New customers → higher churn  
 - Electronic check → highest churn  
 
----
-
 ## Business Recommendations
 
 - Convert short-term customers to long-term plans  
@@ -58,11 +54,8 @@ The dashboard allows users to:
 - Promote auto-pay over electronic check  
 - Offer retention discounts for high-paying users  
 
----
-
 ## DAX Measures
 
-```dax
 Churn Rate =
 DIVIDE(
     CALCULATE(COUNTROWS(Customers), Customers[Churn] = "Yes"),
@@ -87,17 +80,17 @@ customer-churn-powerbi/
 ├── powerbi_dashboard.png
 └── README.md
 
-Tools Used
+# Tools Used
 Power BI Desktop
 DAX
 Power Query
 Data Modeling
 
-Dataset
+# Dataset
 IBM Telco Customer Churn Dataset
 7,032 Customers · 21 Features
 
-Author
+# Author
 
 Pradhipa S
 Aspiring Data Analyst
