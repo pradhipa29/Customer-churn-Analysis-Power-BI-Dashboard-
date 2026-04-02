@@ -17,10 +17,6 @@ The dashboard allows users to:
 
 **Understand customer churn patterns and reduce revenue loss through actionable insights.**
 
-## Dashboard Preview
-
-![Dashboard](powerbi_dashboard.png)
-
 ## Dashboard Features
 
 - **KPI Cards**
