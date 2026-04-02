@@ -74,13 +74,6 @@ CALCULATE(
     Customers[Churn] = "Yes"
 )
 
-# Project Structure
-customer-churn-powerbi/
-│
-├── CustomerChurn.pbix
-├── powerbi_dashboard.png
-└── README.md
-
 # Tools Used
 Power BI Desktop
 DAX
