@@ -73,7 +73,8 @@ CALCULATE(
     AVERAGE(Customers[MonthlyCharges]),
     Customers[Churn] = "Yes"
 )
-Project Structure
+
+# Project Structure
 customer-churn-powerbi/
 │
 ├── CustomerChurn.pbix
