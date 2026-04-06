@@ -88,5 +88,4 @@ IBM Telco Customer Churn Dataset
 
 Pradhipa S
 Aspiring Data Analyst
-pradhipasuresh16@gmail.com
 https://www.linkedin.com/in/pradhipa29
